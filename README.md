@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**juliaglz/juliaglz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Julia Gonzalez Ramos**, a Computer Scientist with a strong mathematical background and a passion for creating effective, elegant solutions to complex problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+
+- 📈 Focused on solving real-world problems through code and data
+
+---
+
+## 🎓 Education
+
+- **BSc in Applied mathematics and Computer Science** – UC3M
+
+## 🛠️ Tools & Technologies
+
+**Languages**  
+Python | R | MATLAB | SQL | SAS | C | C++ 
+
+**Libraries & Frameworks**  
+Pandas | NumPy | Scikit-learn
+
+---
+
+## 📫 Let’s Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/tuusuario)  
+- 📧 julia.gonzalez@email.com  
+- ![Profile Views](https://komarev.com/ghpvc/?username=JuliaGonzalezRamos&color=blue)
+
+---
+
+⭐️ Thanks for visiting my profile!
+
